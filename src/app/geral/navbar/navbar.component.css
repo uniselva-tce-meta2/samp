@@ -1,0 +1,24 @@
+.navbar {
+    background-color: #1A71B1!important;
+    color: #6AA5CD;
+    flex-direction: column;
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+
+.navbar-top {
+    background-color: #fff!important;
+    color: #1A71B1;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.nav-link {
+    color: #6AA5CD;
+}
+
+.active {
+    color: #EBF8FB;
+}

@@ -1,0 +1,6 @@
+{
+    "/redmine*":{
+        "target": "http://localhost/redmine/",
+        "secure": false
+    }
+}
